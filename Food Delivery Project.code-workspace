@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "contnent/spl recipie image"
+		},
+		{
+			"path": "contnent/about us"
+		},
+		{
+			"path": "contnent/profile pic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Food Delivery Project"
+	}
+}
